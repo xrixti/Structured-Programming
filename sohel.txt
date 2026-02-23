@@ -1,0 +1,22 @@
+Student 0: 
+PSC: 
+HSC: 
+id:1
+passing_year:40
+result:50
+JSC: 
+HSC: 
+id:60
+passing_year:2
+result:88
+Student 1: 
+PSC: 
+HSC: 
+id:44
+passing_year:54
+result:3
+JSC: 
+HSC: 
+id:78
+passing_year:80
+result:50
